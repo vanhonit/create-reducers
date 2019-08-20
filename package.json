@@ -1,0 +1,27 @@
+{
+  "name": "create-reducers",
+  "version": "1.0.0",
+  "description": "The util library auto create reducer for redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vanhonit/create-reducers.git"
+  },
+  "keywords": [
+    "redux",
+    "reducer",
+    "reducers"
+  ],
+  "author": "Hon Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vanhonit/create-reducers/issues"
+  },
+  "homepage": "https://github.com/vanhonit/create-reducers#readme",
+  "dependencies": {
+    "redux-actions": "^2.6.5"
+  }
+}
